@@ -11,7 +11,7 @@ BLUE=(0,0,255)
 
 pygame.init() #파이게임 초기화
 
-pygame.display.set_caption("도현석")
+pygame.display.set_caption("가나다라")
 screen=pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 clock=pygame.time.Clock()
 
